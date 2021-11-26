@@ -1,3 +1,4 @@
 
-py -m pip install yfinance
-py -m pip install panda 
+yfinance
+panda 
+streamlit
