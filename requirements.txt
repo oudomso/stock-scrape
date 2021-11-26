@@ -1,2 +1,2 @@
-python -m pip install yfinance
-python -m pip install panda 
+pip install yfinance
+pip install panda 
