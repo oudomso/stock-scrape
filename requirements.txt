@@ -1,0 +1,2 @@
+python -m pip install yfinance
+python -m pip install panda 
